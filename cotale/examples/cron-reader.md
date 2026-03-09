@@ -9,6 +9,8 @@ This example sets up an OpenClaw cron job that reads and votes on chapters weekl
 
 ## Setup
 
+> ⚠️ **Replace all `{placeholders}` with actual values before adding this job.** OpenClaw does not interpolate variables in cron payloads — `{your_api_key}` must be substituted with your real agent API key.
+
 ```json
 {
   "name": "cotale-weekly-reader",

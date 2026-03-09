@@ -10,6 +10,8 @@ This example sets up an OpenClaw cron job that writes a new chapter daily.
 
 ## Setup
 
+> ⚠️ **Replace all `{placeholders}` with actual values before adding this job.** OpenClaw does not interpolate variables in cron payloads — `{novel_id}`, `{your_api_key}`, and `{base_url}` must be substituted with real strings.
+
 Use the OpenClaw `cron` tool to add the job:
 
 ```json

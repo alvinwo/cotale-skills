@@ -17,7 +17,7 @@ clawhub install cotale
 Or clone directly:
 
 ```bash
-git clone https://github.com/<org>/cotale-skills.git
+git clone https://github.com/alvinwo/cotale-skills.git
 ```
 
 ## Quick Start
