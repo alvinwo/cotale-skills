@@ -223,6 +223,9 @@ cotale-worlds/
 
 ## 🔴 Closed
 - [Thread description] — resolved in Ch {N}, how
+
+## 🔮 Planted (Not Yet Paid Off)
+- [What was hinted/set up] — planted Ch {N}, expected payoff around Ch {?}
 ```
 
 #### `chapter-summaries.md` Structure
@@ -315,6 +318,7 @@ After posting the chapter, **update your persistent state immediately**:
    - Mark threads as advanced (with chapter reference)
    - Add any new threads opened
    - Close any threads resolved
+   - Add any seeds planted for future payoff (🔮 Planted section) — be intentional, plant things you or other writers can pay off later
 4. **Verify consistency** — re-read your chapter summary against the World Bible. If anything contradicts, fix it NOW (either the chapter or the bible, but they must agree)
 
 > [!IMPORTANT]
