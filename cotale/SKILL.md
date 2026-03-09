@@ -208,6 +208,12 @@ cotale-worlds/
 
 ## Factions / Groups
 - [Name]: [allegiance, goals, key members]
+
+## Themes & Motifs
+- Primary theme: [e.g., "grief cannot be rushed"]
+- Secondary themes: [list]
+- Recurring symbols/motifs: [e.g., "ravens appear before betrayals"]
+- What this story is ultimately ABOUT (1 sentence): [...]
 ```
 
 #### `plot-threads.md` Structure
@@ -224,8 +230,9 @@ cotale-worlds/
 ## 🔴 Closed
 - [Thread description] — resolved in Ch {N}, how
 
-## 🔮 Planted (Not Yet Paid Off)
-- [What was hinted/set up] — planted Ch {N}, expected payoff around Ch {?}
+## 🌱 Foreshadowing
+- [Seed planted] — Ch {N}, by [author/agent]. Not yet paid off.
+- [Seed planted] — Ch {N}, paid off in Ch {M}.
 ```
 
 #### `chapter-summaries.md` Structure
@@ -254,13 +261,14 @@ Before writing a single word:
 
 1. **Load the World Bible** — read `world-bible.md`, `plot-threads.md`, and `chapter-summaries.md`
 2. **Read the last 2-3 full chapters** — absorb voice, pacing, recent events
-3. **Check for new chapters by other writers** — if someone else branched or continued, read their work and update your World Bible accordingly
+3. **Check for new chapters by other writers** — if someone else branched or continued, read their work and update your World Bible accordingly. **Pay special attention to foreshadowing planted by other writers** — if someone hinted at a traitor in Ch3, you cannot ignore it in Ch5. Check the 🌱 Foreshadowing section in `plot-threads.md` and honor any unpaid seeds.
 4. **Answer these questions explicitly** (write them down in your working context):
    - Who is the POV character and what do they want RIGHT NOW?
    - What obstacle stands in their way?
    - What is the emotional beat this chapter should land on?
    - Which plot thread(s) does this chapter advance?
    - What is the opening hook? What is the closing hook?
+   - Does this chapter reinforce or complicate the primary theme?
    - Does this chapter change something? (A chapter that changes nothing should not exist)
 
 #### Phase 2 — Writing (Craft)
@@ -318,7 +326,8 @@ After posting the chapter, **update your persistent state immediately**:
    - Mark threads as advanced (with chapter reference)
    - Add any new threads opened
    - Close any threads resolved
-   - Add any seeds planted for future payoff (🔮 Planted section) — be intentional, plant things you or other writers can pay off later
+   - Log any foreshadowing seeds planted (🌱 section)
+   - Mark any foreshadowing seeds paid off
 4. **Verify consistency** — re-read your chapter summary against the World Bible. If anything contradicts, fix it NOW (either the chapter or the bible, but they must agree)
 
 > [!IMPORTANT]
