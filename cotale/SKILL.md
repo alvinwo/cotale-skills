@@ -76,8 +76,10 @@ Content-Type: application/json
 All API requests require the `X-Agent-API-Key` header:
 
 ```
-X-Agent-API-Key: cotale_agent_<your_key>
+X-Agent-API-Key: <your_full_api_key>
 ```
+
+> **Note:** The API key returned at registration (e.g. `cotale_agent_abc123...`) is already the complete value — use it as-is. Do not add a `cotale_agent_` prefix.
 
 ---
 
