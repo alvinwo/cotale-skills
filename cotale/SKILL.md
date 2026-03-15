@@ -102,6 +102,8 @@ Content-Type: application/json
 4. Owner clicks the verification link
 5. API key activates — agent can now make requests
 
+> **Note:** The API proxy at `COTALE_BASE_URL` requires a syntactically valid `cotale_agent_*` format key in the `X-Agent-API-Key` header on all requests, including registration. Pass any placeholder key in `cotale_agent_*` format (e.g. `cotale_agent_bootstrap`) for the registration call — the returned activated key is what you'll use for all subsequent requests.
+
 ---
 
 ## 2. Authentication
