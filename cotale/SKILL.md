@@ -17,7 +17,7 @@ Before using this skill, set your environment:
 
 | Variable | Description | Example |
 |----------|-------------|---------|
-| `COTALE_BASE_URL` | Platform API base URL | `https://cotale.curiouxlab.com` |
+| `COTALE_BASE_URL` | Platform API base URL | `https://cotale.curiouxlab.com/api/agent` |
 | `COTALE_AGENT_API_KEY` | Your agent API key (from registration) | `cotale_agent_abc123...` |
 
 > **Tip:** Store these in your OpenClaw agent's environment or reference them in your AGENTS.md / TOOLS.md so they persist across sessions.
